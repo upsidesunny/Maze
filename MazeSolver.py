@@ -2,8 +2,6 @@ import matplotlib
 import matplotlib.pyplot as plt
 import numpy as np
 
-import MazeGenerator as MazeGen
-
 class Dijkstra:
     def __init__(self, data, colors=['black', 'white', 'red', 'green']):
         self.data = data
