@@ -22,8 +22,8 @@ These project contains two modules:
 ### `MazeSolver.py`
 - Dijkstra's algorithm
 - A* search algorithm
-  - Cost = Manhattan distance
-  - Cost = BFS + back propagation
+  - Cost: Manhattan distance
+  - Cost: BFS + back propagation
 - Dead-end filling algorithm
 - Wall following algorithm
   - Left-hand rule
